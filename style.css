@@ -1,0 +1,35 @@
+
+
+h1{
+   color: rgba(254, 254, 254, 0.728);
+   
+}
+
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: rgb(29, 28, 28);
+}
+
+.emoji{
+    font-size: 10rem
+    
+}
+
+.closed{
+    display: none;
+}
+
+.open{
+    display: none;
+}
+
+.shut{
+    display: none;
+}
+.active{
+     display: contents;
+}
